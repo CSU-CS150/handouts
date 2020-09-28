@@ -1,4 +1,5 @@
-~$* // ignore temp files
+#ignore temp files
+~$* 
 
 *.class 
 *.iml 
