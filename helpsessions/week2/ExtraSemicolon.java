@@ -1,4 +1,4 @@
-public class YourProgram {
+public class ExtraSemicolon {
     public static int getNumber(); {
         return 4 + 2;
     }

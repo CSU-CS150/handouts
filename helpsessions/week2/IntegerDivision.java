@@ -1,4 +1,4 @@
-public class YourProgram {
+public class IntegerDivision {
     public static double divide(int num1, int num2) {
         return num1 / num2;
     }
